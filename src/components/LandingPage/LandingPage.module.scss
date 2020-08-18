@@ -1,0 +1,28 @@
+.landingPage {
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  & a {
+    display: block;
+    padding: 0 50px;
+    padding-bottom: 5px;
+    font-size: 3rem;
+    color: #e0e4e4;
+    border: 1px solid #e0e4e4;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:active {
+      color: #fe6a6a;
+      border: 1px solid #fe6a6a;
+    }
+  }
+
+  & h1 {
+    text-align: center;
+  }
+}

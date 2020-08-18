@@ -1,0 +1,36 @@
+.postDetails {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin-bottom: 50px;
+}
+
+.comment {
+  margin-left: 70px;
+}
+
+.addComment {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 30px;
+
+  & > * {
+    margin-bottom: 10px;
+  }
+
+  & button {
+    padding: 10px 50px;
+    font-size: 1.5rem;
+    color: #e0e4e4;
+    border: 1px solid #e0e4e4;
+    font-family: "IBM Plex Mono", monospace;
+  }
+
+  & button:active,
+  & button:focus,
+  & button:hover {
+    color: #fe6a6a;
+    border: 1px solid #fe6a6a;
+  }
+}
