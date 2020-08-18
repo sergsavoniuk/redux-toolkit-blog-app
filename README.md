@@ -1,3 +1,12 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3952ccb7-d181-4a20-81e8-69d710acb209/deploy-status)](https://app.netlify.com/sites/wizardly-brattain-542d46/deploys)
+
+### [🔥 Live Demo](https://wizardly-brattain-542d46.netlify.app/)
+
+![Screenshot_2020-08-18 React App](https://user-images.githubusercontent.com/21188996/90522992-0c2e3700-e175-11ea-9f85-f90f9106be25.png)
+![Screenshot_2020-08-18 React App(1)](https://user-images.githubusercontent.com/21188996/90523078-2831d880-e175-11ea-88c5-add9a5b90ac4.png)
+![Screenshot_2020-08-18 React App(2)](https://user-images.githubusercontent.com/21188996/90523101-2d8f2300-e175-11ea-8291-acb67de9378c.png)
+![Screenshot_2020-08-18 React App(3)](https://user-images.githubusercontent.com/21188996/90523122-33850400-e175-11ea-80ee-83abfc3a7bbf.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
